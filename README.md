@@ -17,7 +17,7 @@ webpack 配置：
 {
   test: /\.md$/,
   use: ['vue-loader', {
-    loader: 'markdown-to-vue-loader',
+    loader: 'md-to-vue-loader',
     options: {...options}
   }]
 }

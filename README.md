@@ -31,10 +31,10 @@ webpack 配置：
 
 ```json
 {
-  codeWrap: '..../.../componet-wrap-*.vue'
-  markdown: {
-    options: {...},
-    plugins: [...]
+  "codeWrap": "..../.../componet-wrap-*.vue"
+  "markdown": {
+    "options": {...},
+    "plugins": [...]
   }
 }
 ```
@@ -74,7 +74,7 @@ webpack 配置：
 <script>
 export default {
   mounted() {
-    console.log('mounted);
+    console.log('mounted');
   }
 }
 </script>
@@ -123,9 +123,9 @@ export default {
 
 safds
 
-```javascript
+\`\`\`javascript
 var a = 1;
-```
+\`\`\`
 </subscribe>
 ```
 

@@ -119,13 +119,7 @@ export default {
 }
 </script>
 <subscribe>
-> 测试markdown预发
-
-safds
-
-\`\`\`javascript
-var a = 1;
-\`\`\`
+> 测试markdown语法
 </subscribe>
 ```
 

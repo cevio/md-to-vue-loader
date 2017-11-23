@@ -1,0 +1,31 @@
+{
+  "name": "md-to-vue-loader",
+  "version": "1.0.0",
+  "description": "compile markdown to vue code and preview code",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "loader-utils": "^1.1.0",
+    "markdown-it": "^8.4.0"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "files": [
+    "package.json",
+    "README.md",
+    "lib",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cevio/md-to-vue-loader.git"
+  },
+  "keywords": [
+    "markdown",
+    "vue",
+    "code",
+    "preview"
+  ],
+  "license": "MIT"
+}

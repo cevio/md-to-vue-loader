@@ -1,6 +1,6 @@
 {
   "name": "md-to-vue-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "compile markdown to vue code and preview code",
   "main": "index.js",
   "dependencies": {

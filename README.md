@@ -118,9 +118,9 @@ export default {
   }
 }
 </script>
-<subscribe title="标题">
+<describe title="标题">
 > 测试markdown语法
-</subscribe>
+</describe>
 ```
 
 # License

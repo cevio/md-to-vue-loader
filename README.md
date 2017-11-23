@@ -118,7 +118,7 @@ export default {
   }
 }
 </script>
-<subscribe>
+<subscribe title="标题">
 > 测试markdown语法
 </subscribe>
 ```

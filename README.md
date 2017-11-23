@@ -33,8 +33,8 @@ webpack 配置：
 {
   "codeWrap": "..../.../componet-wrap-*.vue"
   "markdown": {
-    "options": {...},
-    "plugins": [...]
+    "options": {},
+    "plugins": []
   }
 }
 ```

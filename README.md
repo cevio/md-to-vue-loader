@@ -107,7 +107,8 @@ At last, you can see it.
 }
 </style>
 <script>
-export default {
+import Vue from 'vue';
+export default Vue.extend({
   data() {
     return {
       a: 1
@@ -116,7 +117,7 @@ export default {
   mounted() {
     setInterval(() => this.a++, 1000);
   }
-}
+});
 </script>
 <describe title="标题">
 > 测试markdown语法
